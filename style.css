@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Caprasimo', cursive;
+}
+
+main {
+    width: 1024px;
+    margin: 3 rem auto;
+    display: grid;
+    grid-template-columns: 250px 4 fr;
+    grid-template-rows: 6.5rem 10rem 20rem 40%;
+}

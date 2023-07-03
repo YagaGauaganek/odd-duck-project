@@ -18,6 +18,9 @@ main {
 
 header {
     text-align: center;
+    font-family: 'Caprasimo', cursive;
+    font-size: 5rem;
+    font-weight: 600;
 }
 
 h1 {
